@@ -1,0 +1,17 @@
+{
+  "name": "localizacion",
+  "version": "1.0.0",
+  "description": "Maps and location using leaflet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/collins333/localizacion.git"
+  },
+  "author": "h4ckademy",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ]
+}
