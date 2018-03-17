@@ -1,7 +1,8 @@
-Maps
+# Maps
 
 Una aplicación simple de PhoneGap que usa geolocalización y mapas de Leaflet
-Uso
+
+# Uso
 
 Servimos la aplicación móvil usando
 
